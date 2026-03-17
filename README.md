@@ -1,6 +1,6 @@
 ## Project Based Experiments
-## NAME: VESHWANTH.
-## REGNO: 212224230300
+## NAME: V KAMALESH VIJAYAKUMAR
+## REGNO: 212224110028
 ## Objective :
 Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
